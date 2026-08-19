@@ -16,6 +16,7 @@ The goal of KStacks is to build a highly available, developer-friendly architect
 | **Yasir** | [@YsuLab](https://github.com/YsuLab) | Main Portal & Website |
 | **Tariq** | [@TariqJandaly](https://github.com/TariqJandaly) | Index Service |
 | **Fawaz** | [@fawazabdullah25](https://github.com/fawazabdullah25) | Devs Service |
+| **Abdullah** | [@Sayrawan190](https://github.com/Sayrawan190) | Dashboard Development |
 
 ## 🏗️ Architecture & Stack
 
