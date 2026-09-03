@@ -13,7 +13,7 @@ The goal of KStacks is to build a highly available, developer-friendly architect
 | Member | GitHub Profile | Responsibilities |
 | :--- | :--- | :--- |
 | **Abdulaziz** | [@xAbdaziz](https://github.com/xAbdaziz) | Lead Developer, Infrastructure, Auth & Groups Service |
-| **Yasir** | [@YsuLab](https://github.com/YsuLab) | Main Portal & Website |
+| **Yasir** | [@YsuLab](https://github.com/YsuLab) | Vision & Product Direction, Cross-Service Development, And Main Portal |
 | **Tariq** | [@TariqJandaly](https://github.com/TariqJandaly) | Index Service |
 | **Fawaz** | [@fawazabdullah25](https://github.com/fawazabdullah25) | Devs Service |
 
