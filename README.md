@@ -24,9 +24,8 @@ track `prod` before selecting `dev` as infra's default branch. Both environment
 values live on `infra/prod`, so app CI can deploy dev without changing production
 values. Dev remains disabled until its databases, credentials, DNS, and TLS exist.
 
-Rename current production branches (`main`, `master`, or `production`) to `prod`.
-For devs-service, `prod` already exists alongside `main`: reconcile their histories
-before removing the old branch. Preserve existing `dev` history; rename
-`development` to `dev` where present, and create `dev` from `prod` where absent.
-Merge the workflow changes into both branches before setting `dev` as default.
-The `.github` repository follows the same naming and keeps its organization profile.
+All repositories have `prod` and `dev` branch refs. Existing production and dev
+commit tips were preserved; missing dev branches were created from prod.
+`devs-service/main` remains as a legacy branch already contained in prod.
+Merge the workflow changes into both branches before setting dev as default.
+The `.github` repository keeps its organization profile.
